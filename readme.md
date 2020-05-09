@@ -12,3 +12,5 @@
 5. На той же _VM_ установлена _Graphana_. 
 6. В _Graphana_ в качестве datasource указан _Prometheus_.
 7. Построен дашборд c ранее проверенными PQL-запросами:
+
+![](images/dashboard.png)
